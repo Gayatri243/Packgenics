@@ -228,6 +228,23 @@ h6,
     }
 }
 
+
+.page-header4 {
+    background: linear-gradient(to right, rgba(2, 36, 91, 1) 0%, rgba(2, 36, 91, 0) 100%), url(../img/product_packaging_line.jpg) center center no-repeat;
+    background-size: cover;
+}
+
+.page-header5 {
+    background: linear-gradient(to right, rgba(2, 36, 91, 1) 0%, rgba(2, 36, 91, 0) 100%), url(../img/industry_packaging.jpg) center center no-repeat;
+    background-size: cover;
+}
+
+.page-header3 {
+    background: linear-gradient(to right, rgba(2, 36, 91, 1) 0%, rgba(2, 36, 91, 0) 100%), url(../img/packaging.jpg) center center no-repeat;
+    background-size: cover;
+}
+
+
 .page-header1 {
     background: linear-gradient(to right, rgba(2, 36, 91, 1) 0%, rgba(2, 36, 91, 0) 100%), url(../img/Packaging-line.jpg) center center no-repeat;
     background-size: cover;
